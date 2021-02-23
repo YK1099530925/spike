@@ -1,4 +1,4 @@
-package com.spike.dao;
+package com.spike.mapper;
 
 public class TestDao {
 }
