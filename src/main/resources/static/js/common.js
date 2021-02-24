@@ -1,0 +1,1 @@
+mainPath = "http://localhost:8080/spike/";
